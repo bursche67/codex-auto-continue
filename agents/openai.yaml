@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 自动续跑"
+  short_description: "为当前聊天设置每十五分钟定时续跑，支持查看状态与关闭，完成或需用户操作时停止"
+  default_prompt: "使用 $codex-auto-continue 为当前聊天的未完成任务开启自动续跑。"
